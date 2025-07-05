@@ -34,7 +34,7 @@ We built three pricing models of increasing complexity and realism. This project
 |   Google Colab     | Development & execution           |
 |                    |  environment                      |
 |   GitHub           | Version control & documentation   |
-|--------------------|-----------------------------------|
+
 
 ## Project Workflow & Architecture
 
