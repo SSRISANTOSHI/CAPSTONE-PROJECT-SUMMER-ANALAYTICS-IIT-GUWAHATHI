@@ -1,13 +1,13 @@
 # CAPSTONE-PROJECT-SUMMER-ANALAYTICS-IIT-GUWAHATHI
 
-# 🚗 Dynamic Pricing for Urban Parking Lots  
+## Dynamic Pricing for Urban Parking Lots  
 **Capstone Project – Summer Analytics 2025**  
 By: [Your Name]  
 Hosted by: Consulting & Analytics Club × Pathway  
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project develops a real-time, intelligent **dynamic pricing system** for 14 urban parking lots. The goal is to maximize utilization and fairness using live data including:
 
